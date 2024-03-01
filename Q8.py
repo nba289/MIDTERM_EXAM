@@ -11,6 +11,6 @@ url1 = "http://example.com"
 url2 = "https://example.com"
 not_url = "example.com"
 
-print(is_valid_url(url1))  # Expected output: True
-print(is_valid_url(url2))  # Expected output: True
-print(is_valid_url(not_url))  # Expected output: False
+print(is_valid_url(url1))  # We expect the output to be: True
+print(is_valid_url(url2))  # We expect the output to be: True
+print(is_valid_url(not_url))  # We expect the output to be: False
